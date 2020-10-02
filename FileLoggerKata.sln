@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLoggerKata", "FileLoggerKata\FileLoggerKata.csproj", "{AC18B6F4-2B6E-4887-83FC-1FB7C87AA825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLoggerProject", "FileLogger\FileLoggerProject.csproj", "{2B0EB3B7-678A-4D65-96A5-B9A233988AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC18B6F4-2B6E-4887-83FC-1FB7C87AA825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC18B6F4-2B6E-4887-83FC-1FB7C87AA825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC18B6F4-2B6E-4887-83FC-1FB7C87AA825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC18B6F4-2B6E-4887-83FC-1FB7C87AA825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0EB3B7-678A-4D65-96A5-B9A233988AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0EB3B7-678A-4D65-96A5-B9A233988AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0EB3B7-678A-4D65-96A5-B9A233988AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0EB3B7-678A-4D65-96A5-B9A233988AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7D343D-3AD9-407A-A757-D9E7F23E90FD}
+	EndGlobalSection
+EndGlobal
